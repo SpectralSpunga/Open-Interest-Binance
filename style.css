@@ -1,0 +1,9 @@
+body{
+    margin: 10px;
+}
+svg{
+    background-color:rgb(255, 199, 199) ;
+    width: 100%;
+    margin-top: 10px;
+    height: 500px;
+}
